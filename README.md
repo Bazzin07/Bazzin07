@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bazzin07
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Backend development 
+- 🌱 I’m currently exploring Backend development 
 - 💞️ I’m looking to collaborate on more web development related projects 
 - 📫 How to reach me through discord : ayush_077
 
