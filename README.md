@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bazzin07
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently exploring Backend development 
+- 👀 I’m a FullStack Developer 
+- 🌱 I’m currently exploring Machine Learning 
 - 💞️ I’m looking to collaborate on more web development related projects 
 - 📫 How to reach me through discord : ayush_077
 
